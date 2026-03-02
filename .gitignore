@@ -40,6 +40,14 @@ Thumbs.db
 .idea/
 .vscode/
 .claude/
+.omc/
 *.swp
 *.swo
 *~
+
+# Logs
+*.log
+
+# Node (packages/)
+node_modules/
+dist/
